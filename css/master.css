@@ -1,0 +1,72 @@
+/* 
+Title:		Master styles for screen media
+Author: 	dan@simplebits.com
+Adapted:  jeff@jeffmueller.net
+*/
+
+/* overrides
+--------------------------------------------- */
+
+body {
+  font: 62.5%/1.5em "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+	color: #51463d;
+	background-color: #f3f2e8;
+}
+
+/* links */
+
+a:link, a:visited {
+	font-weight: bold;
+	text-decoration: none;
+	outline: none;
+	color: #3792b3;
+}
+
+/* headings */
+h1 { font-size: 2.5em; }
+
+h2 { font-size: 2.3em; }
+
+h3 { font-size: 2.1em; }
+
+h4 { font-size: 1.9em; }
+
+h5 { font-size: 1.7em; }
+
+h6 { font-size: 1.5em; }
+
+/* page structure 
+--------------------------------------------- */
+
+
+
+/* header 
+--------------------------------------------- */
+
+
+
+/* main styles 
+--------------------------------------------- */
+
+
+	
+/* secondary styles 
+--------------------------------------------- */
+
+
+
+/* footer 
+--------------------------------------------- */
+
+
+
+/* globals 
+--------------------------------------------- */
+
+.group:after {
+	content: "."; 
+  display: block; 
+  height: 0; 
+  clear: both; 
+  visibility: hidden;
+}
