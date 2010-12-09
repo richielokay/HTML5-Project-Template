@@ -13,4 +13,4 @@ Finally, I mixed in some typography settings and gutters from the [960.gs projec
 The latest copy of [Modernizr](http://www.modernizr.com) is included, and the default index file links to a Google-hosted copy of [jQuery](http://www.jquery.com). The index file is a slightly modified version of the one included in the HTML5 Reset package.
 
 Thanks to [@simplebits](http://www.twitter.com/simplebits), [@meyerweb](http://www.twitter.com/meyerweb), 
-[@zeldman](http://www.twitter.com/zeldman),  [@nathansmith](http://www.twitter.com/nathansmith), [@html5reset](http://www.twitter.com/html5reset), [@html5reset](http://www.twitter.com/modernizr), and [@jquery](http://www.twitter.com/jquery).
+[@zeldman](http://www.twitter.com/zeldman),  [@nathansmith](http://www.twitter.com/nathansmith), [@html5reset](http://www.twitter.com/html5reset), [@modernizr](http://www.twitter.com/modernizr), and [@jquery](http://www.twitter.com/jquery).
