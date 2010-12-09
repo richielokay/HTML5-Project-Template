@@ -1,4 +1,4 @@
-HTML5 Project Template
+**HTML5 Project Template**
 
 * * * * *
 
