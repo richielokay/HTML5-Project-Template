@@ -4,12 +4,6 @@ Author: 	dan@simplebits.com
 Adapted:	jeff@jeffmueller.net
 */
 
-/* nav fix */
-
-*:first-child+html #nav li {
-	width: 24.9%;
-}
-
 /* PNG fix */
 
 * html #selector { /* for IE<6 */
